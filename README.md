@@ -1,18 +1,21 @@
 <div align="center">
 
-  <!-- TOP BANNER (Replace with your own dark/dithered aesthetic image) -->
+  <!-- ANIMATED TYPING HEADER (No static images, pure dynamic SVG text) -->
   <img 
-    src="https://i.imgur.com/8Qp40p2.gif" 
-    width="100%" 
-    alt="Aesthetic Banner"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=45&duration=3000&pause=1500&color=F8F8F2&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Naresh+K.C.;I+Design+Workflows.;I+Build+Backend+Systems.;I+Engineer+Solutions." 
+    alt="Animated Header"
+  />
+  
+  <br/>
+
+  <!-- ANIMATED SUB-HEADER -->
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=40&lines=%3E_Full-Stack+Developer+%7C+Backend+Engineer" 
+    alt="Role Subheader"
   />
 
   <br/><br/>
 
-  <h2>Hi 👋, I'm Naresh K.C.</h2>
-
-  <h4>Full-Stack Developer & Backend Engineer</h4>
-  
   <p><i>Designing workflows, not just features.</i></p>
 
   <p>Building reliable systems, practical web applications, and AI-powered products with clean architecture.</p>
