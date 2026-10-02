@@ -280,12 +280,6 @@ I pay particular attention to the parts of an application that become important 
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kcNares&bg_color=ffffff00&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="95%" />
-
-</div>
-
 ---
 
 ## 🔭 Currently Exploring
