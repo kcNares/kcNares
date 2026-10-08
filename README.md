@@ -2,82 +2,86 @@
 
 <!-- ========================= HEADER ========================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=220&section=header&text=Naresh%20K.C.&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20System%20Builder&descAlignY=60&descSize=19&descColor=E2E8F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F2A5F,75:0369A1,100:06B6D4&height=230&section=header&text=Naresh%20K.C.&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20System%20Builder&descAlignY=60&descSize=19&descColor=E2E8F0" width="100%" />
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=I+Design+Workflows;I+Build+Backend+Systems;I+Engineer+Reliable+Solutions;I+Turn+Real-World+Requirements+Into+Software" />
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=I+Design+Workflows;I+Build+Backend+Systems;I+Engineer+Reliable+Solutions;I+Solve+Real-World+Engineering+Problems" />
+
+<br/>
 
 <p>
   I design workflows, build backend systems, and turn real-world requirements into reliable software.
 </p>
 
-<p>
-  <a href="https://github.com/kcNares">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kcNares&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
-</p>
+<br/>
+
+<a href="https://github.com/kcNares">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=nareshkumarkc25@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=kcNares&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a **Full-Stack Developer and Backend Engineer** focused on building practical software systems rather than isolated features.
+I'm a **Full-Stack Developer and Backend Engineer** focused on building practical, reliable software systems.
 
-I work across the development lifecycle — from understanding business requirements and designing workflows to building APIs, databases, authentication, frontend applications, and production infrastructure.
+My work goes beyond implementing individual features. I focus on understanding how systems should behave, designing workflows, enforcing business rules, protecting data, handling edge cases, and making applications reliable in production.
 
-My main interests include:
+I enjoy working on systems where **backend architecture, security, data integrity, concurrency, and real-world business logic** matter.
 
-* 🏗️ **Backend & System Design**
-* 🔌 **REST API Development**
-* 🔐 **Authentication & Security**
+### Core Focus
+
+* 🏗️ **Backend & System Architecture**
+* 🔐 **Authentication, Authorization & API Security**
 * 🗄️ **Database Design & Data Integrity**
-* ⚡ **Real-time Applications & Voice AI**
+* ⚙️ **Business Logic & Workflow Engineering**
+* ⚡ **Concurrency & Background Processing**
+* 🤖 **AI & Real-Time Applications**
 * 🚀 **Production Deployment & Infrastructure**
-* 🎯 **Business Workflow & Edge-case Handling**
 
-> **My approach:** Understand the problem → Design the workflow → Build the system → Handle edge cases → Secure it → Deploy it.
+> **Understand the problem → Design the workflow → Build the system → Handle edge cases → Secure it → Deploy it**
 
 ---
 
-## What I Do
+## ⚙️ What I Build
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ Backend Engineering
+### 🏗️ Backend Systems
 
 * Django & Django REST Framework
 * FastAPI
 * REST API architecture
+* Service-layer business logic
 * Authentication & authorization
-* Business logic & service layers
 * Database transactions
-* Concurrency handling
-* Background jobs with Celery
+* Concurrency control
+* Celery background processing
 * Redis-based systems
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🖥️ Full-Stack Development
+### 🖥️ Full-Stack Applications
 
 * React
 * Next.js
 * TypeScript
 * JavaScript
 * Tailwind CSS
-* Responsive interfaces
-* API integration
+* API-driven applications
 * State management
+* Responsive interfaces
 * Frontend architecture
 
 </td>
@@ -94,7 +98,7 @@ My main interests include:
 * Docker
 * Nginx
 * Linux
-* Production deployments
+* Production deployment
 * Application monitoring
 
 </td>
@@ -104,9 +108,9 @@ My main interests include:
 ### 🤖 AI & Real-Time Systems
 
 * Voice AI applications
-* Speech-to-text systems
+* Speech-to-text pipelines
 * Real-time communication
-* AI-powered learning platforms
+* AI-powered learning systems
 * API-driven AI integrations
 * Interactive mock interviews
 * AI-assisted workflows
@@ -117,36 +121,36 @@ My main interests include:
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technology Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" alt="Languages" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend Technologies" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" alt="Backend Technologies" />
 </p>
 
 ### Databases & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,nginx,linux" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,nginx,linux" alt="Databases and Infrastructure" />
 </p>
 
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Development Tools" />
 </p>
 
 ---
@@ -157,13 +161,14 @@ My main interests include:
 
 **Vehicle-owner and operations platform for vehicle rentals.**
 
-A backend-heavy system focused on owner operations, booking workflows, vehicle management, authentication, payments, notifications, and business rules.
+A backend-focused platform designed around vehicle management, owner operations, booking workflows, authentication, payments, notifications, and real-world rental business rules.
 
-**Focus:**
+**Engineering Focus**
+
 `Django` · `Django REST Framework` · `PostgreSQL` · `Redis` · `Celery` · `Next.js`
 
-<a href="https://travelnestnepal.com/">
-  <img src="https://img.shields.io/badge/Visit_Travel_Nest_Nepal-0A2540?style=for-the-badge&logo=safari&logoColor=white" />
+<a href="https://travelnestnepal.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Explore_Travel_Nest_Nepal-0F2A5F?style=for-the-badge&logo=safari&logoColor=white" alt="Travel Nest Nepal" />
 </a>
 
 ---
@@ -172,43 +177,46 @@ A backend-heavy system focused on owner operations, booking workflows, vehicle m
 
 **Customer-facing vehicle rental and booking platform.**
 
-Customers can discover vehicles, manage their profiles, make bookings, and follow the complete rental journey.
+A complete rental experience where customers can discover vehicles, manage their profiles, make bookings, and follow the rental journey.
 
-**Focus:**
+**Engineering Focus**
+
 `Next.js` · `TypeScript` · `Django REST Framework` · `PostgreSQL`
 
-<a href="https://booknownepal.com/">
-  <img src="https://img.shields.io/badge/Visit_Book_Now_Nepal-0EA5E9?style=for-the-badge&logo=safari&logoColor=white" />
+<a href="https://booknownepal.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Explore_Book_Now_Nepal-0369A1?style=for-the-badge&logo=safari&logoColor=white" alt="Book Now Nepal" />
 </a>
 
 ---
 
 ### 🎓 Learnexa
 
-**Education platform with AI-powered learning experiences.**
+**AI-powered education and learning platform.**
 
-Focused on exam preparation, student services, mock tests, interviews, and AI-assisted learning workflows.
+Focused on exam preparation, mock tests, interactive interviews, student services, and AI-assisted learning experiences.
 
-**Focus:**
+**Engineering Focus**
+
 `Next.js` · `REST APIs` · `Voice AI` · `Real-time Communication`
 
-<a href="https://learnexahub.com/">
-  <img src="https://img.shields.io/badge/Visit_Learnexa-0891B2?style=for-the-badge&logo=safari&logoColor=white" />
+<a href="https://learnexahub.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Explore_Learnexa-0891B2?style=for-the-badge&logo=safari&logoColor=white" alt="Learnexa" />
 </a>
 
 ---
 
 ### 🛒 E-Bargaining
 
-**Interactive e-commerce platform focused on product discovery and price negotiation.**
+**Interactive e-commerce platform built around product discovery and price negotiation.**
 
-Built around an interactive shopping experience with dynamic product and bargaining workflows.
+Designed around dynamic shopping experiences and interactive bargaining workflows.
 
-**Focus:**
+**Engineering Focus**
+
 `React` · `Zustand` · `Tailwind CSS`
 
-<a href="https://www.ebargaining.com/">
-  <img src="https://img.shields.io/badge/Visit_E--Bargaining-7C3AED?style=for-the-badge&logo=safari&logoColor=white" />
+<a href="https://www.ebargaining.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Explore_E--Bargaining-7C3AED?style=for-the-badge&logo=safari&logoColor=white" alt="E-Bargaining" />
 </a>
 
 ---
@@ -225,6 +233,7 @@ Built around an interactive shopping experience with dynamic product and bargain
 
 Authentication
 Authorization
+Access Control
 Secure APIs
 
 </td>
@@ -235,9 +244,10 @@ Secure APIs
 
 **Architecture**
 
-Clean Structure
+System Design
 Business Logic
-Scalable Systems
+Service Layers
+Scalable Structure
 
 </td>
 
@@ -250,6 +260,7 @@ Scalable Systems
 PostgreSQL
 Transactions
 Data Integrity
+Consistency
 
 </td>
 
@@ -262,46 +273,39 @@ Data Integrity
 Concurrency
 Background Jobs
 Edge Cases
+Fault Handling
 
 </td>
 </tr>
 </table>
 
-I pay particular attention to the parts of an application that become important after the prototype stage:
+---
+
+## 🎯 What I Care About
+
+I pay particular attention to the parts of an application that become critical after the prototype stage:
 
 **Authentication · Authorization · Business Rules · Data Integrity · Concurrency · Background Processing · Error Handling · Security · Deployment**
 
+A feature is not finished just because it works in the happy path. A reliable system also needs to behave correctly when users, data, requests, and services do not behave as expected.
+
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kcNares&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=kcNares&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="175" alt="GitHub Statistics" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kcNares&hide_border=true&theme=transparent" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kcNares&hide_border=true&theme=transparent" height="175" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
----
-
-## 🏆 GitHub Achievements
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kcNares&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" />
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=kcNares&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" alt="GitHub Trophies" />
 
 </div>
 
@@ -310,25 +314,37 @@ I pay particular attention to the parts of an application that become important 
 ## 🔭 Currently Exploring
 
 * Advanced backend architecture
-* Secure API design
+* Secure and scalable API design
 * Distributed systems & concurrency
 * Real-time applications
-* Voice AI
+* Voice AI systems
 * Production infrastructure
 * Scalable business workflows
 
 ---
 
+## 📌 Engineering Philosophy
+
 <div align="center">
 
-### Building software that solves problems — not just software that looks impressive.
+### Good software is not just about making features work.
+
+### It is about making the system behave correctly when things go wrong.
 
 <br/>
 
-**Thanks for visiting my profile. 👋**
+**Design for reality. Build for reliability. Engineer for scale.**
 
-<br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=30&lines=Building+software+that+solves+real+problems.;Thanks+for+visiting+my+profile+%F0%9F%91%8B" alt="Closing message" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0369A1,100:020617&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
