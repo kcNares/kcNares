@@ -19,9 +19,11 @@
 <a href="https://github.com/kcNares">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nareshkumarkc25@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=kcNares&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
@@ -295,9 +297,7 @@ A feature is not finished just because it works in the happy path. A reliable sy
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kcNares&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="175" alt="GitHub Statistics" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kcNares&hide_border=true&theme=transparent" height="175" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kcNares&bg_color=00000000&color=0EA5E9&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph" />
 
 </div>
 
@@ -305,7 +305,17 @@ A feature is not finished just because it works in the happy path. A reliable sy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kcNares&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" alt="GitHub Trophies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=600&height=35&lines=Code+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Activity Animation" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kcNares&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="175" alt="GitHub Statistics" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kcNares&hide_border=true&theme=transparent" height="175" alt="GitHub Streak" />
 
 </div>
 
@@ -341,7 +351,7 @@ A feature is not finished just because it works in the happy path. A reliable sy
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=30&lines=Building+software+that+solves+real+problems.;Thanks+for+visiting+my+profile+%F0%9F%91%8B" alt="Closing message" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=700&height=30&lines=Building+software+that+solves+real+problems.;Thanks+for+visiting+my+profile+%F0%9F%91%8B" alt="Closing Message" />
 
 <br/><br/>
 
