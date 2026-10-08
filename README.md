@@ -305,14 +305,6 @@ A feature is not finished just because it works in the happy path. A reliable sy
 
 <br/>
 
-🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kcNares&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" />
-
-</div>
-
 🐍 Contribution Activity
 
 <div align="center">
