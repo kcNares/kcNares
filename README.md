@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- ========================= HEADER ========================= -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B1120,60:111827,82:1E3A8A,100:2563EB&height=245&section=header&text=Naresh%20K.C.&fontSize=56&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20System%20Builder&descAlignY=59&descSize=19&descColor=CBD5E1" width="100%" />
 
 <br/>
@@ -20,7 +18,7 @@
 
 <br/>
 
-<a href="https://github.com/kcNares" target="_blank">
+<a href="https://github.com/kcNares">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
@@ -31,6 +29,8 @@
 <a href="https://kcnares.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=kcNares&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -299,29 +299,23 @@ A feature is not finished just because it works in the happy path. A reliable sy
 
 ---
 
-## 📊 GitHub Activity
+📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kcNares&bg_color=00000000&color=2563EB&line=60A5FA&point=1E3A8A&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=kcNares&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kcNares&hide_border=true&theme=transparent" height="170" />
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=600&height=35&lines=Code+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Activity Animation" />
-
-</div>
-
-<br/>
+🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kcNares&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="175" alt="GitHub Statistics" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kcNares&hide_border=true&theme=transparent" height="175" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -361,12 +355,6 @@ A feature is not finished just because it works in the happy path. A reliable sy
 
 <br/><br/>
 
-<a href="https://kcnares.github.io/portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/View_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View Portfolio" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,45:1E3A8A,70:0F172A,100:020617&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0369A1,100:020617&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
