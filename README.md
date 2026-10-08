@@ -1,14 +1,16 @@
 <div align="center">
 
-<!-- ========================= HEADER ========================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0F2A5F,75:0369A1,100:06B6D4&height=230&section=header&text=Naresh%20K.C.&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20System%20Builder&descAlignY=60&descSize=19&descColor=E2E8F0" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0B1120,60:111827,82:1E3A8A,100:2563EB&height=245&section=header&text=Naresh%20K.C.&fontSize=56&fontColor=FFFFFF&fontAlignY=37&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20System%20Builder&descAlignY=59&descSize=19&descColor=CBD5E1" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&height=45&lines=I+Design+Workflows;I+Build+Backend+Systems;I+Engineer+Reliable+Solutions;I+Solve+Real-World+Engineering+Problems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1400&color=60A5FA&center=true&vCenter=true&width=780&height=40&lines=I+Design+Workflows;I+Build+Backend+Systems;I+Engineer+Reliable+Solutions;I+Solve+Real-World+Engineering+Problems" alt="Typing Animation" />
 
 <br/>
+
+<p>
+  <strong>Full-Stack Developer · Backend Engineer · System Builder</strong>
+</p>
 
 <p>
   I design workflows, build backend systems, and turn real-world requirements into reliable software.
@@ -17,16 +19,17 @@
 <br/>
 
 <a href="https://github.com/kcNares">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nareshkumarkc25@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=kcNares&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=kcNares&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
+
 
 ---
 
