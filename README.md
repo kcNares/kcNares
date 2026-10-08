@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Naresh K.C.
+<!-- ========================= HEADER ========================= -->
 
-### Full-Stack Developer · Backend Engineer · System Builder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0EA5E9&height=220&section=header&text=Naresh%20K.C.&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Backend%20Engineer%20%7C%20System%20Builder&descAlignY=60&descSize=19&descColor=E2E8F0" width="100%"/>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1200&color=38BDF8&center=true&vCenter=true&width=750&height=45&lines=I+Design+Workflows;I+Build+Backend+Systems;I+Engineer+Reliable+Solutions;I+Turn+Real-World+Requirements+Into+Software" />
+</p>
 
 <p>
   I design workflows, build backend systems, and turn real-world requirements into reliable software.
@@ -15,6 +19,7 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=kcNares&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -282,6 +287,26 @@ I pay particular attention to the parts of an application that become important 
 
 ---
 
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kcNares&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+---
+
 ## 🔭 Currently Exploring
 
 * Advanced backend architecture
@@ -301,5 +326,9 @@ I pay particular attention to the parts of an application that become important 
 <br/>
 
 **Thanks for visiting my profile. 👋**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
