@@ -30,8 +30,6 @@
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=kcNares&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
-
 </div>
 
 ---
