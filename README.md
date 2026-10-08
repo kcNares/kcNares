@@ -293,29 +293,31 @@ A feature is not finished just because it works in the happy path. A reliable sy
 
 ---
 
-## 📊 GitHub Activity
+📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kcNares&bg_color=00000000&color=0EA5E9&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=kcNares&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kcNares&hide_border=true&theme=transparent" height="170" />
 
 </div>
 
 <br/>
 
+🏆 GitHub Achievements
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=600&height=35&lines=Code+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Activity Animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=kcNares&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" width="90%" />
 
 </div>
 
-<br/>
+🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kcNares&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" height="175" alt="GitHub Statistics" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kcNares&hide_border=true&theme=transparent" height="175" alt="GitHub Streak" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
